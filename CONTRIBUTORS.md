@@ -4,3 +4,6 @@
 <li>William Rupert Waboke (@waboke)
 
 </ol>
+<li>Isah Mohammed, Imas419, Computer science, U23CS1015
+
+</ol>
