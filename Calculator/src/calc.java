@@ -17,7 +17,7 @@ public class calc implements ActionListener {
     char operator;
 
     calc() {
-        frame = new JFrame("Isah calculator");
+        frame = new JFrame(" Calculator,ISAH MOHAMMED, U23CS1015, COMPUTER SCIENCE");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(420, 550);
         frame.setLayout(null);
